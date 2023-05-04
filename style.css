@@ -1,0 +1,20 @@
+body {
+	background-color: #C1F1F2;
+	font-size: 24px;
+}
+table {
+	padding: 20px;
+}
+h1 {
+	color: white;
+	text-align: center;
+	font-family: "Alkatra", serif;
+	font-size: 50px;
+}
+
+.footer {
+	min-height: 75px;
+	vertical-align: center;
+	background-color: white;
+}
+ 
